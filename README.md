@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi There 👋
 
-<!--
-**ruska112x/ruska112x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:
+- 👨‍🎓 Omsk State University (2021 - present)
+- 💻 Backend development
+- 🎨 Frontend development
 
-Here are some ideas to get you started:
+## 🛠️ Main Skills:
+- Base: linux, bash, git, make, docker
+- Backend: java, spring, postgresql
+- Frontend: typescript, react, redux
+- Other: c++, python, flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Some Stats:
+![stat](https://github-readme-stats.vercel.app/api?username=ruska112x&show_icons=true&theme=gruvbox)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruska112x&layout=compact&theme=gruvbox)
