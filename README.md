@@ -1,7 +1,7 @@
 # Hi There
 
 ## About Me:
-- Omsk State University (2021 - present)
+- Omsk State University, Bachelor's Degree in Applied Mathematics and Informatics (2021 - present)
 - Backend development
 
 ## Main Skills:
