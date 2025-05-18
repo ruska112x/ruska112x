@@ -1,10 +1,15 @@
 # Hi There
 
 ## About Me:
-- Omsk State University, Bachelor's Degree in Applied Mathematics and Informatics (2021 - present)
-- Backend development
+- Studying programming since 2017
+- Primarily java/kotlin backend development
+- Also know a little bit frontend
+
+## Education:
+- Omsk State University
+  - Bachelor's Degree in Applied Mathematics and Informatics (2021 - present)
 
 ## Main Skills:
 - Base: linux, bash, git, make, docker
-- Backend: java, spring, postgresql
-- Frontend: typescript, react, redux
+- Backend: java, kotlin, spring, postgresql
+- Frontend: javascript, typescript, react, redux, axios, mui
