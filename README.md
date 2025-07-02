@@ -7,7 +7,7 @@
 
 ## Education:
 - Omsk State University
-  - Bachelor's Degree in Applied Mathematics and Informatics (2021 - present)
+  - Bachelor's Degree in Applied Mathematics and Informatics (September 2021 - July 2025)
 
 ## Main Skills:
 - Base: linux, bash, git, make, docker
